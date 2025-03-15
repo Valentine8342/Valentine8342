@@ -120,12 +120,12 @@ const mauro = {
   ```mermaid
   mindmap
     root((Mauro's Tech Journey))
-      Mobile & Web
+      Mobile + Web
         Advanced React Patterns
         React Native Animations
         Cross-platform Solutions
         Next.js Applications
-      AI & Robotics
+      AI + Robotics
         Neural Interfaces
         Computer Vision
         Reinforcement Learning
