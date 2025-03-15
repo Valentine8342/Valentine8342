@@ -93,31 +93,31 @@ const mauro = {
     <tr>
       <td>Machine Learning</td>
       <td>
-        <img src="https://img.shields.io/badge/95%25-7209b7?style=flat&logo=&logoColor=white&labelColor=7209b7" width="500" />
+        <img src="https://img.shields.io/badge/95%25-7209b7?style=flat&logo=&logoColor=white&labelColor=7209b7" width="200" />
       </td>
     </tr>
     <tr>
       <td>React Native & Expo</td>
       <td>
-        <img src="https://img.shields.io/badge/98%25-4cc9f0?style=flat&logo=&logoColor=white&labelColor=4cc9f0" width="500" />
+        <img src="https://img.shields.io/badge/98%25-4cc9f0?style=flat&logo=&logoColor=white&labelColor=4cc9f0" width="200" />
       </td>
     </tr>
     <tr>
       <td>Virtualization Infrastructure</td>
       <td>
-        <img src="https://img.shields.io/badge/96%25-3a0ca3?style=flat&logo=&logoColor=white&labelColor=3a0ca3" width="500" />
+        <img src="https://img.shields.io/badge/96%25-3a0ca3?style=flat&logo=&logoColor=white&labelColor=3a0ca3" width="200" />
       </td>
     </tr>
     <tr>
       <td>Computer Vision</td>
       <td>
-        <img src="https://img.shields.io/badge/90%25-4361ee?style=flat&logo=&logoColor=white&labelColor=4361ee" width="500" />
+        <img src="https://img.shields.io/badge/90%25-4361ee?style=flat&logo=&logoColor=white&labelColor=4361ee" width="200" />
       </td>
     </tr>
     <tr>
       <td>UI/UX Design</td>
       <td>
-        <img src="https://img.shields.io/badge/92%25-f72585?style=flat&logo=&logoColor=white&labelColor=f72585" width="500" />
+        <img src="https://img.shields.io/badge/92%25-f72585?style=flat&logo=&logoColor=white&labelColor=f72585" width="200" />
       </td>
     </tr>
   </table>
