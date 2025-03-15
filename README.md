@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Valentine&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
 </div>
 
 
@@ -17,23 +17,26 @@
 
 ## 💫 About Me
 ```typescript
-const valentine = {
-    code: ["TypeScript", "JavaScript", "React Native", "React", "Node.js", "Python"],
-    askMeAbout: ["mobile dev", "web dev", "tech", "app design"],
+const mauro = {
+    code: ["Python", "TypeScript", "JavaScript", "C++", "React Native", "React", "Node.js"],
+    askMeAbout: ["AI", "machine learning", "mobile dev", "robotics", "neural interfaces", "app design"],
     technologies: {
+        artificialIntelligence: ["TensorFlow", "PyTorch", "Computer Vision", "Neural Networks", "Reinforcement Learning"],
         mobileApp: ["React Native", "Expo"],
         frontEnd: {
             js: ["React", "Next.js"],
             css: ["TailwindCSS", "NativeWind", "styled-components"]
         },
         backEnd: {
+            python: ["FastAPI", "Flask"],
             js: ["Node", "Express"]
         },
-        databases: ["SQLite", "MongoDB"],
-        misc: ["Firebase", "Redux", "Git"]
+        cloud: ["Docker", "Kubernetes", "Virtualization", "Infrastructure as Code"],
+        databases: ["SQLite", "MongoDB", "PostgreSQL"],
+        misc: ["Firebase", "Redux", "Git", "CI/CD"]
     },
-    currentFocus: "Building all the awesome things",
-    funFact: "I've made an AI that will solve any maze faster than you can even think to blink"
+    currentFocus: "Building AI assistants and advanced mobile applications",
+    funFact: "I've made an AI NN that will solve any maze faster than you can even think to blink"
 };
 ```
 
@@ -43,10 +46,6 @@ const valentine = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Valentine8342&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentine8342&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valentine8342&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
@@ -169,8 +168,8 @@ const valentine = {
   </table>
   
   
-<h3>Currently Building:</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=700&color=4169E1&center=true&vCenter=true&width=600&lines=Sylc+-+AI+Assistant;Advanced+Expo+Apps;Building+Libraries;AI+Agents;Cross-Platform+Mobile+Solutions;Neural+Interface+Prototypes" alt="Typing SVG" />
+  <h3>Currently Building:</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=700&color=4169E1&center=true&vCenter=true&width=600&lines=Neural+Interface+Prototypes;Advanced+Expo+Apps;Hypervisor+Performance+Tools;Cross-Platform+Mobile+Solutions;AI-Powered+Infrastructure;Distributed+Resource+Scheduling" alt="Typing SVG" />
 </div>
 
 
