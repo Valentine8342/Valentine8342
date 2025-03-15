@@ -169,8 +169,8 @@ const valentine = {
   </table>
   
   
-  <h3>Currently Building:</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=700&color=4169E1&center=true&vCenter=true&width=600&lines=Neural+Interface+Prototypes;Advanced+Expo+Apps;Hypervisor+Performance+Tools;Cross-Platform+Mobile+Solutions;AI-Powered+Infrastructure;Distributed+Resource+Scheduling" alt="Typing SVG" />
+<h3>Currently Building:</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=700&color=4169E1&center=true&vCenter=true&width=600&lines=Sylc+-+AI+Assistant;Advanced+Expo+Apps;Building+Libraries;AI+Agents;Cross-Platform+Mobile+Solutions;Neural+Interface+Prototypes" alt="Typing SVG" />
 </div>
 
 
