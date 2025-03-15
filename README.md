@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mauro+Garcia&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&animation=fadeIn" />
 </div>
 
 
