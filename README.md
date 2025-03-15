@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Valentine&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full-Stack Engineer&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
 </div>
 
 
