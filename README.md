@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full-Stack Engineer&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=800&section=header&text=Full-Stack%20Engineer&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=white" />
 </div>
-
 
 <h1 align="center">👋 Hello, I'm Mauro</h1>
 <h3 align="center">Passionate Software Developer & Problem Solver</h3>
